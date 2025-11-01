@@ -1,21 +1,16 @@
 ### [Zed](https://zed.dev)
 
-#### Install in Zed
-
-This theme can be installed via the Zed extensions store.
-After installing, the theme can be selected in the theme selector.
-
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/dracula/zed.git
+git clone https://github.com/marcorentap/zed-dracula.git
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/zed/archive/main.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/marcorentap/zed-dracula/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
