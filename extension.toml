@@ -1,7 +1,7 @@
-id = "dracula"
-name = "Dracula"
+id = "marc-dracula"
+name = "Marc's Dracula"
 version = "1.0.0"
 schema_version = 1
-authors = ["Marc Owen Rentap"]
-description = "Darkened Dracula theme for Zed"
+authors = ["Marc Owen Rentap <marcorentap@gmail.com>"]
+description = "Dark Dracula theme for Zed"
 repository = "https://github.com/marcorentap/zed-dracula"
